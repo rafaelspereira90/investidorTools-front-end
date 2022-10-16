@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  font-family: 'Poppins',sans-serif;
+  color: white;
+}
+
+.app {
+  text-align: center;
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 95%;
+}
+
+.App-link {
+  color: #ffffff;
+  cursor: pointer;
+  font-size: calc(8px + 2vmin);
+}
+
+.App-link:hover {
+  color: #b3b3b3;
+  cursor: pointer;
+}
+
+.App-tittle {
+  color: rgb(126, 17, 17);
+}
+
+.App-subtittle {
+  color: #ffffff;
+  text-align: left;
+}
+
+.App-subtittle2 {
+  color: #ffffff;
+  font-size: calc(2px + 2vmin);
+}
+
+body {
+  margin: 0;
+}
